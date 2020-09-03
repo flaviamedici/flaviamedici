@@ -47,6 +47,8 @@
 - [Visual Studio Code for C# development](https://blog.flaviamedici.com/2020/09/02/visual-studio-code-for-c-development/)
 - [C# Non-primitive data types](https://blog.flaviamedici.com/2020/05/11/c-non-primitive-data-types/)
 - [C# Primitive Data Types](https://blog.flaviamedici.com/2020/04/27/c-primitive-data-types/)
+- [C# Basic Concepts](https://blog.flaviamedici.com/2020/04/23/c-basic-concepts/)
+- [Git – basics 2](https://blog.flaviamedici.com/2020/02/02/git-basics-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.flaviamedici.com)
