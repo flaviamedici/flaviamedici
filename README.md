@@ -58,12 +58,11 @@
 
 </details>
 
-<details>
+
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="flavia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=flaviamedici&show_icons=true&hide_border=true" />
 
-</details>
 
 [website]: https://flaviamedici.com
 [twitter]: https://twitter.com/flavia_o_m
