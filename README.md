@@ -1,7 +1,7 @@
 ### Hi there, I'm Flavia 👋
 
 [![Website](https://img.shields.io/website?label=flaviamedici.com&style=for-the-badge&url=https%3A%2F%2Fflaviamedici.com)](https://flaviamedici.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fflavia_o_m&screen_name=Flavia)
+[![Twitter Follow](https://img.shields.io/twitter/follow/flavia_o_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fflaviamedici&screen_name=Flavia_o_m)
 
 ## I'm a Wife, Dog Mom, and Developer!
 
