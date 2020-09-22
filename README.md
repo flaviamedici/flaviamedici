@@ -5,7 +5,7 @@
 
 ## I'm a Wife, Dog Mom, and Developer!
 
-- 🔭 I’m currently working as a Junior Web Dev[website]!
+- 🔭 I’m currently working as a Junior Web Dev [website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
