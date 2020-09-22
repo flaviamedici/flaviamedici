@@ -44,11 +44,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript – Arrays](https://blog.flaviamedici.com/2020/09/22/javascript-arrays/)
 - [JavaScript – ES6](https://blog.flaviamedici.com/2020/09/17/javascript-es6/)
 - [Resources for learning to code](https://blog.flaviamedici.com/2020/09/15/resources-for-learning-to-code/)
 - [Visual Studio Code for C# development](https://blog.flaviamedici.com/2020/09/02/visual-studio-code-for-c-development/)
 - [C# Non-primitive data types](https://blog.flaviamedici.com/2020/05/11/c-non-primitive-data-types/)
-- [C# Primitive Data Types](https://blog.flaviamedici.com/2020/04/27/c-primitive-data-types/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.flaviamedici.com)
