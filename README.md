@@ -44,11 +44,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dealing with Burnout](https://blog.flaviamedici.com/2020/11/26/dealing-with-burnout/)
 - [Learning resources during COVID-19](https://blog.flaviamedici.com/2020/11/20/learning-resources-during-covid/)
 - [JavaScript – Arrays](https://blog.flaviamedici.com/2020/09/22/javascript-arrays/)
 - [JavaScript – ES6](https://blog.flaviamedici.com/2020/09/17/javascript-es6/)
 - [Resources for learning Web Development](https://blog.flaviamedici.com/2020/09/15/resources-for-learning-to-code/)
-- [Visual Studio Code for C# development](https://blog.flaviamedici.com/2020/09/02/visual-studio-code-for-c-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.flaviamedici.com)
