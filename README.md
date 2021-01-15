@@ -5,11 +5,11 @@
 
 ## I'm a Wife, Dog Mom, and Developer!
 
-- 🔭 I’m currently working as a Junior Web Dev [website]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working as a Software QA Engineer [website]!
+- 🌱 I’m currently learning everything, mostly focus on JavaScript 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I started coding after 30s
+- 🥅 2021 Goals: Contribute more to Open Source projects, learn more about JavaScript and Node, learn Wordpress development
+- ⚡ Fun fact: I started coding after my 30s
 
 
 ### Connect with me:
