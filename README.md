@@ -44,11 +44,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Modern JavaScript definitions](https://blog.flaviamedici.com/2021/01/30/modern-javascript-definitions/)
 - [JavaScript – Functions](https://blog.flaviamedici.com/2021/01/26/javascript-functions/)
 - [Debugging your JavaScript code](https://blog.flaviamedici.com/2021/01/24/debugging-javascript/)
 - [Dealing with Burnout](https://blog.flaviamedici.com/2020/11/26/dealing-with-burnout/)
 - [Learning resources during COVID-19](https://blog.flaviamedici.com/2020/11/20/learning-resources-during-covid/)
-- [JavaScript – Arrays](https://blog.flaviamedici.com/2020/09/22/javascript-arrays/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.flaviamedici.com)
