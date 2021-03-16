@@ -44,11 +44,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Resources to learn HTML](https://blog.flaviamedici.com/2021/03/12/resources-to-learn-html/)
+- [Free Resources to help you learn CSS](https://blog.flaviamedici.com/2021/03/15/resources-to-learn-css/)
+- [Free Resources to help you learn HTML](https://blog.flaviamedici.com/2021/03/12/resources-to-learn-html/)
 - [Modern JavaScript definitions](https://blog.flaviamedici.com/2021/01/30/modern-javascript-definitions/)
 - [JavaScript – Functions](https://blog.flaviamedici.com/2021/01/26/javascript-functions/)
 - [Debugging your JavaScript code](https://blog.flaviamedici.com/2021/01/24/debugging-javascript/)
-- [Dealing with Burnout](https://blog.flaviamedici.com/2020/11/26/dealing-with-burnout/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.flaviamedici.com)
