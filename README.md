@@ -8,7 +8,7 @@
 - 🔭 I’m currently working as a Software QA Engineer [website]!
 - 🌱 I’m currently learning everything, mostly focus on JavaScript 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects, learn more about JavaScript and Node, learn Wordpress development
+- 🥅 2023 Goals: Contribute more to Open Source projects, learn Cloud Computing
 - ⚡ Fun fact: I started coding after my 30s
 
 
