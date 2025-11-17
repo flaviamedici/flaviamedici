@@ -1,21 +1,17 @@
 ### Hi there, I'm Flavia 👋
 
-[![Website](https://img.shields.io/website?label=flaviamedici.com&style=for-the-badge&url=https%3A%2F%2Fflaviamedici.com)](https://flaviamedici.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/flavia_o_m?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fflaviamedici&screen_name=Flavia_o_m)
 
 ## I'm a Wife, Dog Mom, and Developer!
 
-- 🔭 I’m currently working as a Software QA Engineer [website]!
+- 🔭 I’m currently working as a Software QA Engineer!
 - 🌱 I’m currently learning everything, mostly focus on JavaScript 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects, learn Cloud Computing
+- 🥅 2026 Goals: Be consistent with my projects
 - ⚡ Fun fact: I started coding after my 30s
 
 
 ### Connect with me:
 
-[<img align="left" alt="flaviamedici" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="flaviamedici | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="flaviamedici | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="flaviamedici | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
