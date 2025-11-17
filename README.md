@@ -68,7 +68,7 @@
 [website]: https://flaviamedici.com
 [twitter]: https://twitter.com/flavia_o_m
 [instagram]: https://instagram.com/flavia_o_m
-[linkedin]: https://www.linkedin.com/in/flavia-medici-13227815/
+[linkedin]: https://www.linkedin.com/in/flaviaomedici
 [webdevplaylist]: https://www.youtube.com/playlist?list=PL0M1caPUdMZbSgIpPQuFJQL2zJf9V6s2Y
 [wordpressplaylist]: https://www.youtube.com/playlist?list=PL0M1caPUdMZaL5GWdoUjtn8I0Fmb3cP7j
 [csharpplaylist]: https://www.youtube.com/playlist?list=PL0M1caPUdMZbPAB8GzwFP8elnRx2N9-9t
