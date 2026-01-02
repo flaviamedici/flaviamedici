@@ -3,10 +3,10 @@
 
 ## I'm a Wife, Dog Mom, and Developer!
 
-- 🔭 I’m currently working as a Software QA Engineer!
-- 🌱 I’m currently learning everything, mostly focus on JavaScript 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2026 Goals: Be consistent with my projects
+- 🔭 I’m currently working as a Senior Software QA Engineer!
+- 🌱 I’m currently learning everything, mostly focusing on JavaScript 🤣
+- 👯 I’m looking to collaborate with other content creators and contribute to open source
+- 🥅 2026 Goals: Make one commit for 365 days
 - ⚡ Fun fact: I started coding after my 30s
 
 
