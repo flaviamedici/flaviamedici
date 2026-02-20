@@ -1,12 +1,12 @@
 ### Hi there, I'm Flavia 👋
 
 
-## I'm a Wife, Dog Mom, and Developer!
+## I'm a Senior Software Quality Assurance Engineer!
 
 - 🔭 I’m currently working as a Senior Software QA Engineer!
-- 🌱 I’m currently learning everything, mostly focusing on JavaScript 🤣
+- 🌱 I’m currently learning everything, mostly focusing on JavaScript and Python
 - 👯 I’m looking to collaborate with other content creators and contribute to open source
-- 🥅 2026 Goals: Make one commit for 365 days
+- 🥅 2026 Goals: Make one commit for 365 days and create more
 - ⚡ Fun fact: I started coding after my 30s
 
 
